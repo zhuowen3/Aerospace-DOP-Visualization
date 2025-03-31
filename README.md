@@ -36,7 +36,11 @@
 </details>
 
 ## About The Project
-
+### Contributions by Zhuowen Li
+I was part of the frontend team, where I contributed to:
+- **Visualizing DOP data on the world map** using **Leaflet.js**.
+- **Implementing interactive features** for exploring GPS performance data.
+- **Enhancing the UI and optimizing performance** for large-scale geospatial datasets.
 ### Built With
 * [![Vue][Vue.js]][Vue-url]
 * [![Leaflet](https://img.shields.io/badge/Leaflet-009900?style=for-the-badge&logo=leaflet&logoColor=white)](https://leafletjs.com/)
