@@ -80,7 +80,7 @@ The following software must be installed on your device to run ```vue-dop-visual
     - Clone the repository:
 
         ```
-        git clone https://github.com/zhuowen3/Aerospace-DOP-Visualization.git
+        git clone https://github.com/zhuowen3/vue-dop-visualizer.git
         ```
     <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
